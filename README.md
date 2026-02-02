@@ -1,2 +1,8 @@
-# RESTAURANT_RESERVATION
-Restaurant Reservation is a smart web app for booking tables online. Users can browse restaurants, view menus, select date and time, manage reservations and receive confirmations. It includes secure login, admin dashboard, real-time availability tracking, responsive design and an easy-to-use interface for customers and staff.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
